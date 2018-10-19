@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/.vs/APA2/v15/.suo
+/.vs
